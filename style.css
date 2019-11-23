@@ -1,0 +1,25 @@
+.display-4{
+    color:white;
+    text-align: center;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-color: #20315A;
+}
+
+#search-param, #result-title{
+    color: white;
+    background-color: #2C3E50;
+}
+
+#search-card, #results{
+    border-color: #2C3E50;
+}
+
+.btn{
+    border-color: #95A5A6;
+    background-color: #95A5A6;
+    color: #FFFFFF;
+}
